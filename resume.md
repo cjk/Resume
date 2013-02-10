@@ -14,8 +14,6 @@
 
 - kommunikations- und präsentationsstarker Mittler an der Schnittstelle zwischen Fachbereich, IT und Management
 
-- Starke Sprachkenntnisse in Deutsch, Englisch und Chinesisch
-
 ## Beruflicher Werdegang
 
 ### msc
@@ -44,7 +42,7 @@
   * Netzwerk-Management
     * Router-/Switch Konfiguration (Cisco / 3com) des Campus-Netzwerkes
 
-### metacomp GmbH - 1997 bis 1999
+### MetaComp GmbH - 1997 bis 1999
   * Planung und Implementieren zahlreicher Netzwerk-Installationen
   * Entwicklung des haus-eigenen Software-Entwickler und Netzwerk-Berater
 
@@ -59,8 +57,11 @@ Staatl. geprüfter Informatiker (Wirtschaftsinformatik), Akademie für Datenvera
   * Unterstützung zahlreicher Open-Source Projekte mit Codebeiträgen
 
 ## Sprachkenntnisse
+
 Deutsch    - Muttersprache
+
 Englisch   - Fließend
+
 Chinesisch - Grundkenntnisse
 
 [RoR]: https://en.wikipedia.org/wiki/Ruby_on_Rails
