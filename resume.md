@@ -16,7 +16,7 @@
 
 ## Beruflicher Werdegang
 
-### msc
+### modern software consulting GmbH
 
 #### Senior IT-Berater - 2001 bis heute
   * Daimler AG, GSP-ORR: Aufbau einer neuen IT-Infrastruktur im Grundlagenverbund
@@ -31,9 +31,9 @@
     * Beschreiben fachlicher Anforderungen und Dokumentation in Use-Cases und Diagrammen
     * Erstellen von Transformations- und Reporting-Tools zum visualisieren von Datenbewegungen und Mengen
 
-### Hamilton College ([Link] [HamiltonWebsite]), New York - 1999 bis 2001
+### Hamilton College ([Link] [HamiltonWebsite]), New York
 
-#### freier IT-Berater und Software-Entwickler
+#### freier IT-Berater und Software-Entwickler - 1999 bis 2001
   * Entwicklung Campus-Deployment-Tool
     * Eigenverantwortliche Entwicklung einer Software zur automatischen Konfiguration und Installation verschiedener Windows-Versionen
     * Campus-weiter Betrieb auf über ~ 2000 Studenten-PCs
@@ -42,10 +42,11 @@
   * Netzwerk-Management
     * Router-/Switch Konfiguration (Cisco / 3com) des Campus-Netzwerkes
 
-### MetaComp GmbH - 1997 bis 1999
-  * Planung und Implementieren zahlreicher Netzwerk-Installationen
-  * Entwicklung des haus-eigenen Software-Entwickler und Netzwerk-Berater
+### MetaComp GmbH
 
+#### Software-Entwickler und Netzwerk-Berater - 1997 bis 1999
+  * Planung und Implementieren zahlreicher Netzwerk-Installationen
+  * Entwicklung der haus-eigenen Fakturierungs- und Logistikanwendung (MS-SQL-Server)
 
 ## Ausbildung
 
@@ -55,6 +56,7 @@ Staatl. geprüfter Informatiker (Wirtschaftsinformatik), Akademie für Datenvera
 ## Außerfachliches Engagement
   * Mitglied im Vorstand der freien aktiven Schule a.d. Fildern - 2009 bis heute
   * Unterstützung zahlreicher Open-Source Projekte mit Codebeiträgen
+  * Ausbildung zum Übungsleiter der [ETWO][ewto] - 1990 bis 1993
 
 ## Sprachkenntnisse
 
@@ -66,3 +68,4 @@ Chinesisch - Grundkenntnisse
 
 [RoR]: https://en.wikipedia.org/wiki/Ruby_on_Rails
 [HamiltonWebsite]: http://www.hamilton.edu/
+[ewto]: http://www.wingtsunwelt.com/
