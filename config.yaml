@@ -3,7 +3,7 @@
 # Stuff about you.
 user_config:
   # Your Name. This will be used for the page title
-  name: 'Daniel Bear'
+  name: 'Claus Klingberg'
 
   # The file you want to parse to be your resume
   # Must be a format supported by github-markup
@@ -14,16 +14,16 @@ user_config:
 
   # The google analytics key you wish to use.
   # TODO
-  gkey: 'UA-37554479-1'
+  # gkey: 'UA-37554479-1'
 
 # For github pages to work, this needs to be the GitHub repository this file is
 # stored in.
 github:
   # git url
-  remote: 'git@github.com:danhbear/Resume.git'
+  remote: 'git@github.com:cjk/Resume.git'
 
   # git url
-  git_url: 'https://github.com/danhbear/Resume'
+  git_url: 'https://github.com/cjk/Resume'
 
   # html url
-  html_url: 'http://danhbear.github.com/Resume/'
+  html_url: 'http://cjk.github.com/Resume/'
