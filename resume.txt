@@ -19,7 +19,10 @@
 ### modern software consulting GmbH
 
 #### Senior IT-Berater - 2001 bis heute
-  * Daimler AG, GSP-ORR: Aufbau einer neuen IT-Infrastruktur im Grundlagenverbund
+  * Daimler AG, ITS: Planung, Design + Umsetzung verschiedener Arbeitspakete im Rahmen des Projekts "Operational Excellence"
+    * Erstellen eines bindenden Service-Styleguides für eine skalierbare, flexible, AfterSales-weite Service-Infrastruktur
+    * Umsetzung verschiedener Service-APIs als RESTful Web-Services auf Basis der Java (JEE/Websphere) Plattform
+  * Daimler AG, GSP: Aufbau einer neuen IT-Infrastruktur im Grundlagenverbund
   * Ablösung bestehender manueller / Excel-Prozesse durch eine Webanwendung
     * Planung, Spezifikation, Entwicklung und produktiver Betrieb der Fachkonzepte und Software in kleinem (2 Personen) agilen Team
     * Web-Anwendung im TDD-Verfahren auf Basis [Ruby-On-Rails][RoR] entwickelt
