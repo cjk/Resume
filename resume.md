@@ -2,7 +2,7 @@
 
 <claus.klingberg@pobox.com>
 
-+49-179-5959102
++49-151-16203562
 
 ## Profil
 
@@ -16,12 +16,19 @@
 
 ## Beruflicher Werdegang
 
+### IT.TEM GmbH
+
+#### Senior IT-Berater und Architekt - 2013 bis heute
+  * Daimler AG, ITS: Planung + eigenständige Entwicklung der Front- und Backend-Komponenten für ein neues Trouble-Ticket-System.
+    * Entwicklung der Frontend-Anwendung als Browser-basierte, mobile-fähige Internet-Rich-Client Anwendung mittels EmberJS
+    * Design + Aufbau des Backends als JEE-Anwendung auf Websphere-Basis
+
 ### modern software consulting GmbH
 
-#### Senior IT-Berater - 2001 bis heute
+#### Senior IT-Berater - 2001 bis 2013
   * Daimler AG, ITS: Planung, Design + Umsetzung verschiedener Arbeitspakete im Rahmen des Projekts "Operational Excellence"
     * Erstellen eines bindenden Service-Styleguides für eine skalierbare, flexible, AfterSales-weite Service-Infrastruktur
-    * Umsetzung verschiedener Service-APIs als RESTful Web-Services auf Basis der Java (JEE/Websphere) Plattform
+    * Umsetzung verschiedener Service-APIs als RESTful Web-Services auf Basis der Java (JEE/Websphere) Plattform in einem kleinen Team
 
   * Daimler AG, GSP: Aufbau einer neuen IT-Infrastruktur im Grundlagenverbund
 
@@ -61,7 +68,7 @@ Staatl. geprüfter Informatiker (Wirtschaftsinformatik), Akademie für Datenvera
 ## Außerfachliches Engagement
   * Mitglied im Vorstand der freien aktiven Schule a.d. Fildern - 2009 bis heute
   * Unterstützung zahlreicher Open-Source Projekte mit Codebeiträgen
-  * Ausbildung zum Übungsleiter der [ETWO][ewto] - 1990 bis 1993
+  * Ausbildung zum Übungsleiter der [EWTO][ewto] - 1990 bis 1993
 
 ## Sprachkenntnisse
 
