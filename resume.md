@@ -2,7 +2,7 @@
 
 <claus.klingberg@pobox.com>
 
-+49-151-16203562
++49-176-42692859
 
 ## Profil
 
@@ -16,9 +16,13 @@
 
 ## Beruflicher Werdegang
 
+### Klingberg-Consulting (selbstständig)
+
+#### Senior IT-Berater und Architekt - Okt. 2014 bis heute
+
 ### IT.TEM GmbH
 
-#### Senior IT-Berater und Architekt - 2013 bis heute
+#### Senior IT-Berater und Architekt - 2013 bis 2014
   * Daimler AG, ITS: Planung + eigenständige Entwicklung der Front- und Backend-Komponenten für ein neues Trouble-Ticket-System.
     * Entwicklung der Frontend-Anwendung als Browser-basierte, mobile-fähige Internet-Rich-Client Anwendung mittels EmberJS
     * Design + Aufbau des Backends als JEE-Anwendung auf Websphere-Basis
