@@ -20,6 +20,11 @@
 
 #### Senior IT-Berater und Architekt - Okt. 2014 bis heute
 
+#### Software-Entwicklung
+
+  * Porsche AG: Verbesserung von Anwendungen zur internen Fahrzeug-Erprobung
+    * Weiterentwicklung bestehender Web- und Rich-Clients auf Basis von .NET und C# und MS-SQL-Server
+
 ### IT.TEM GmbH
 
 #### Senior IT-Berater und Architekt - 2013 bis 2014
@@ -34,7 +39,7 @@
     * Erstellen eines bindenden Service-Styleguides für eine skalierbare, flexible, AfterSales-weite Service-Infrastruktur
     * Umsetzung verschiedener Service-APIs als RESTful Web-Services auf Basis der Java (JEE/Websphere) Plattform in einem kleinen Team
 
-  * Daimler AG, GSP: Aufbau einer neuen IT-Infrastruktur im Grundlagenverbund
+  * Daimler AG, GSP: Unterstützung beim Aufbau einer neuen IT-Infrastruktur im Grundlagenverbund
 
   * Ablösung bestehender manueller / Excel-Prozesse durch eine Webanwendung
     * Planung, Spezifikation, Entwicklung und produktiver Betrieb der Fachkonzepte und Software in kleinem (2 Personen) agilen Team
