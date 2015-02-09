@@ -16,7 +16,7 @@
 
 ## Beruflicher Werdegang
 
-### Klingberg-Consulting (selbstständig)
+### Freiberuflicher IT-Consultant (Selbstständig)
 
 #### Senior IT-Berater und Architekt - Okt. 2014 bis heute
 
