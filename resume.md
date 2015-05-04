@@ -31,6 +31,7 @@
   * Daimler AG, ITS: Planung + eigenständige Entwicklung der Front- und Backend-Komponenten für ein neues Trouble-Ticket-System.
     * Entwicklung der Frontend-Anwendung als Browser-basierte, mobile-fähige Internet-Rich-Client Anwendung mittels EmberJS
     * Design + Aufbau des Backends als JEE-Anwendung auf Websphere-Basis
+    * Modularer und schlanker Betrieb aller notwendigen Client- und Server-Komponenten auf VM-Basis bzw. mittels Container-Virtualisierung
 
 ### modern software consulting GmbH
 
@@ -48,9 +49,10 @@
   * Spezifikation + Test eines Nachfolgesystems im Grundlagenverbund auf JEE-/Websphere + PAI-Basis
 
   * Daimler AG, GSP: Spezifikation, Test und Betriebsunterstützung Projekt TIPS
-    * Planung und Aufbau der Stammdatenschnittstellen
+    * Planung und Entwicklung der Stammdatenschnittstellen
     * Beschreiben fachlicher Anforderungen und Dokumentation in Use-Cases und Diagrammen
     * Erstellen von Transformations- und Reporting-Tools zum visualisieren von Datenbewegungen und Mengen
+    * Aufbau und Betrieb notwendiger Server-Komponenten basierend auf einer modularen Linux-Infrastruktur
 
 ### Hamilton College ([Link] [HamiltonWebsite]), New York
 
@@ -67,7 +69,7 @@
 
 #### Software-Entwickler und Netzwerk-Berater - 1997 bis 1999
   * Planung und Implementieren zahlreicher Netzwerk-Installationen
-  * Entwicklung der haus-eigenen Fakturierungs- und Logistikanwendung (MS-SQL-Server)
+  * Entwicklung der haus-eigenen Fakturierungs- und Logistikanwendung (MS-Access & SQL-Server)
 
 ## Ausbildung
 
