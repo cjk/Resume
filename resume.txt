@@ -7,12 +7,18 @@
 ## Profil
 
 - Senior IT-Berater und Software-Entwickler mit internationaler Projekterfahrung
-
 - mehrjährige Erfahrung in komplexer fachlicher Konzeption (Use Case-, Interaktions- und Datenmodellierung) und in allen Phasen des Software-Lebenszyklus
-
 - analysestark, systematisch in der Arbeitsweise und anerkannt von Kollegen als treibendes Team-Mitglied gepaart mit Innovationsgeist und Beharrlichkeit
-
 - kommunikations- und präsentationsstarker Mittler an der Schnittstelle zwischen Fachbereich, IT und Management
+- Fullstack Webentwickler mit Erfahrung in modernster Front- und Backend-Technologie ([Github-Profil](https://github.com/cjk))
+
+## Schwerpunkte
+
+- Softwareplanung/-entwicklung
+- Webentwicklung/Design, insbesondere Datenbankanwendungen
+- IT-Consulting
+- Datenbanken (Planung/Design)
+- Javascript (u.a. React, Redux, Function-Reactive programming), Java, HTML5, CSS3, jQuery, WordPress, SQL, XML, relationalen und NoSQL-Datenbanken
 
 ## Beruflicher Werdegang
 
@@ -44,7 +50,7 @@
 
   * Ablösung bestehender manueller / Excel-Prozesse durch eine Webanwendung
     * Planung, Spezifikation, Entwicklung und produktiver Betrieb der Fachkonzepte und Software in kleinem (2 Personen) agilen Team
-    * Web-Anwendung im TDD-Verfahren auf Basis [Ruby-On-Rails][RoR] entwickelt
+    * Web-Anwendung im TDD-Verfahren auf Basis Ruby-On-Rails entwickelt
     * Schnittstellen von/zu Vor- und Folgesystemen spezifiziert und umgesetzt
   * Spezifikation + Test eines Nachfolgesystems im Grundlagenverbund auf JEE-/Websphere + PAI-Basis
 
@@ -54,7 +60,7 @@
     * Erstellen von Transformations- und Reporting-Tools zum visualisieren von Datenbewegungen und Mengen
     * Aufbau und Betrieb notwendiger Server-Komponenten basierend auf einer modularen Linux-Infrastruktur
 
-### Hamilton College ([Link] [HamiltonWebsite]), New York
+### [Hamilton College](http://www.hamilton.edu/), New York
 
 #### freier IT-Berater und Software-Entwickler - 1999 bis 2001
   * Entwicklung Campus-Deployment-Tool
@@ -77,9 +83,9 @@ Allgemeine Hochschulreife am Max-Planck-Gymnasium in Böblingen, 1990
 Staatl. geprüfter Informatiker (Wirtschaftsinformatik), Akademie für Datenverarbeitung in Böblingen, 1996
 
 ## Außerfachliches Engagement
-  * Mitglied im Vorstand der freien aktiven Schule a.d. Fildern - 2009 bis heute
+  * Mitglied im Vorstand der [freien aktiven Schule a.d. Fildern](http://pieks-fas.de/) - 2009 bis heute
   * Unterstützung zahlreicher Open-Source Projekte mit Codebeiträgen
-  * Ausbildung zum Übungsleiter der [EWTO][ewto] - 1990 bis 1993
+  * Ausbildung zum Übungsleiter der [EWTO](http://www.wingtsunwelt.com/) - 1990 bis 1993
 
 ## Sprachkenntnisse
 
@@ -88,7 +94,3 @@ Deutsch    - Muttersprache
 Englisch   - Fließend
 
 Chinesisch - Grundkenntnisse
-
-[RoR]: https://en.wikipedia.org/wiki/Ruby_on_Rails
-[HamiltonWebsite]: http://www.hamilton.edu/
-[ewto]: http://www.wingtsunwelt.com/
