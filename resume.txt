@@ -18,7 +18,7 @@
 - Webentwicklung/Design, insbesondere Datenbankanwendungen
 - IT-Consulting
 - Datenbanken (Planung/Design)
-- Javascript (u.a. React, Redux, Function-Reactive programming), Java, HTML5, CSS3, jQuery, WordPress, SQL, XML, relationalen und NoSQL-Datenbanken
+- Javascript (u.a. React, Redux, EmberJS, Function-Reactive programming), Java, HTML5, CSS3, jQuery, WordPress, SQL, XML, relationalen und NoSQL-Datenbanken
 
 ## Beruflicher Werdegang
 
@@ -26,7 +26,12 @@
 
 #### Senior IT-Berater und Architekt - Okt. 2014 bis heute
 
-#### Software-Entwicklung
+##### Architektur + Design
+
+  * Daimler AG: Architektur und Planung mehrerer RESTful-Webservice APIs im Rahmen der Ablösung eines Legacy-Systems zur Teileverwaltung
+    * Aufbau einer skalierbaren Webservice-Architektur für den Zugriff von Werkstätten weltweit zur Teile-Recherche und/oder Ersatzteilbestellungen (> 500.000 Retail-Benutzer)
+
+##### Software-Entwicklung
 
   * Porsche AG: Verbesserung von Anwendungen zur internen Fahrzeug-Erprobung
     * Weiterentwicklung bestehender Web- und Rich-Clients auf Basis von .NET und C# und MS-SQL-Server
