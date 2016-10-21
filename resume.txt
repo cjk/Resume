@@ -2,7 +2,7 @@
 
 <claus.klingberg@pobox.com>
 
-+49-176-42692859
++49-176-\*\*\*\*\*\*\*
 
 ## Profil
 
