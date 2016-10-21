@@ -7,10 +7,10 @@
 ## Profil
 
 - Senior IT-Berater und Software-Entwickler mit internationaler Projekterfahrung
+- Fullstack Webentwickler mit Erfahrung in modernster Front- und Backend-Technologie ([Github-Profil](https://github.com/cjk))
 - mehrjährige Erfahrung in komplexer fachlicher Konzeption (Use Case-, Interaktions- und Datenmodellierung) und in allen Phasen des Software-Lebenszyklus
 - analysestark, systematisch in der Arbeitsweise und anerkannt von Kollegen als treibendes Team-Mitglied gepaart mit Innovationsgeist und Beharrlichkeit
 - kommunikations- und präsentationsstarker Mittler an der Schnittstelle zwischen Fachbereich, IT und Management
-- Fullstack Webentwickler mit Erfahrung in modernster Front- und Backend-Technologie ([Github-Profil](https://github.com/cjk))
 
 ## Schwerpunkte
 
@@ -18,7 +18,8 @@
 - Webentwicklung/Design, insbesondere Datenbankanwendungen
 - IT-Consulting
 - Datenbanken (Planung/Design)
-- Javascript (u.a. React, Redux, EmberJS, Function-Reactive programming), Java, HTML5, CSS3, jQuery, WordPress, SQL, XML, relationalen und NoSQL-Datenbanken
+- Javascript, Ruby, Java, Elixir und insbesondere funktionale Sprachen
+- Lange Erfahrung mit vielen Frameworks, Libraries und Anwendungen - u.a. React, Redux, EmberJS, Functional-Reactive programming, Java, HTML5, CSS3, jQuery, WordPress, SQL, XML, relationalen und NoSQL-Datenbanken
 
 ## Beruflicher Werdegang
 
