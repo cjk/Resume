@@ -1,5 +1,5 @@
 # The Rakefile does all of the real work.
-task :default => [:github, :heroku]
+task :default => [:github]
 
 desc "Run your resume locally."
 task :local do

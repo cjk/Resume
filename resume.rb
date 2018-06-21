@@ -14,8 +14,10 @@ end
 [ "sinatra", "less", "github/markup", "yaml", "uri" ].each {|gem|
   begin
     require gem
-  rescue LoadError
-    puts "The gem #{gem} is not installed.\n"
+  rescue LoadError => e
+    puts e
+    puts e.backtrace.inspect
+    puts "The gem #{gem} is not installed?\n"
     exit
   end
 }
