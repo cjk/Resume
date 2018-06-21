@@ -15,10 +15,10 @@
 ## Schwerpunkte
 
 - Softwareplanung/-entwicklung
-- Webentwicklung/Design, insbesondere Datenbankanwendungen
+- Webentwicklung/Design, insbesondere dynamische Webanwendungen und Web-Apps
 - IT-Consulting
-- Datenbanken (Planung/Design)
-- Javascript, Ruby, Java, Elixir und insbesondere funktionale Sprachen
+- Datenbanken (Planung/Design), ob relational oder Key-Value-Stores
+- Javascript, Ruby, Java, Elixir und insbesondere funktionale Methoden und Vorgehensweisen
 - Lange Erfahrung mit vielen Frameworks, Libraries und Anwendungen - u.a. React, Redux, EmberJS, Functional-Reactive programming, Java, HTML5, CSS3, jQuery, WordPress, SQL, XML, relationalen und NoSQL-Datenbanken
 
 ## Beruflicher Werdegang
@@ -27,10 +27,16 @@
 
 #### Senior IT-Berater und Architekt - Okt. 2014 bis heute
 
-##### Architektur + Design
+##### Architektur, Design und Realisierung
+
+  * Planung, Design und Umsetzung einer hoch-performanten, skalierbaren und clusterfähigen Volltext-Recherche für ein Automotive Ersatzteil-System
+    Suche über Millionen von Teilestämmen, Filterung nach > 50 Millionen Fahrzeugkombinationen
+
+##### Anforderungsmanagement, Design und Koordination Betrieb
 
   * Daimler AG: Architektur und Planung mehrerer RESTful-Webservice APIs im Rahmen der Ablösung eines Legacy-Systems zur Teileverwaltung
     * Aufbau einer skalierbaren Webservice-Architektur für den Zugriff von Werkstätten weltweit zur Teile-Recherche und/oder Ersatzteilbestellungen (> 500.000 Retail-Benutzer)
+    * Rolle des IT-Product-Owner zur Aufnahme, Bewertung und Abstimmung der Anforderungen seitens unterschiedlicher Abnehmer / Konsumenten
 
 ##### Software-Entwicklung
 
