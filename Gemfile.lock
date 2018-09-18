@@ -32,7 +32,7 @@ PLATFORMS
 
 DEPENDENCIES
   git
-  github-markup
+  github-markup (>= 2.0.0)
   less
   libv8
   rack-test

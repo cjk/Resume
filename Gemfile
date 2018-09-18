@@ -2,7 +2,7 @@ source "http://rubygems.org"
 
 gem 'rake'
 gem 'git'
-gem 'github-markup'
+gem 'github-markup', '>= 2.0.0'
 # gem 'heroku'
 gem 'less'
 gem 'libv8'
